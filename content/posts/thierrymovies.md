@@ -8,7 +8,7 @@ draft: true
 
 
 - [ ] [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/) (2006)
-![The Pursuit of Happyness](https://image.tmdb.org/t/p/original/f6l9rghSHORkWLurUGJhaKAiyjY.jpg)
+![The Pursuit of Happyness](https://www.themoviedb.org/t/p/w1280/sv1xJUazXeYqALzczSZ3O6nkH75.jpg)
 - [ ] [Everything Everywhere all at Once](https://www.imdb.com/title/tt6710474/) (2022)
 ![Everything Everywhere all at Once](https://www.themoviedb.org/t/p/original/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg)
 - [ ] [The Godfather](https://www.imdb.com/title/tt0068646/) (1972)
