@@ -10,3 +10,6 @@ draft: true
 - [ ] [Interstellar](https://www.imdb.com/title/tt0816692/) (2014)
 - [ ] [Parasite](https://www.imdb.com/title/tt6751668/) (2019)
 
+![The Dark Knight](https://www.themoviedb.org/t/p/w220_and_h330_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg)
+![Interstellar](https://www.themoviedb.org/t/p/w220_and_h330_face/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg)
+![Parasite](https://www.themoviedb.org/t/p/w220_and_h330_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg)
