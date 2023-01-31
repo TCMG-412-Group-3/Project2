@@ -18,3 +18,5 @@ draft: true
 Tim's comment: Now You See Me was a great movie! It had me on the edge of my seat at every encounter!
 
 Stephen's comment: The Dark Knight is my personal favorite movie but I also love The Dark Knight Rises, especially the ending scene between Alfred and Bruce. 
+
+Tyler D's comment: I've heard so many great things about Now You See Me but haven't watched it. It's definitely on my list to watch!
