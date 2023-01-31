@@ -15,3 +15,5 @@ draft: true
 ![The Godfather](https://www.themoviedb.org/t/p/original/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg)
 
 Tim's comment: You can't go wrong with an original like The Godfather!
+
+Tyler D's comment: Everthing Everywhere all at Once was such a trippy movie but everything connected at the end. I'm so glad that they got multiple awards at the Oscar!
