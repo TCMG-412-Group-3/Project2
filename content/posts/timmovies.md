@@ -21,3 +21,5 @@ Thierry's comment: The Lego Movie is an all-time classic! Great choice!
 Gaby's comment: I am impressed you keep up with One Piece- it's a great show but so insanely long! I have only watched one season and then gave up...
 
 Stephen's comment: I love The Wolf of Wall Street, it's hilarious and Leo Dicaprio is one of my favorite actors also. 
+
+Tyler D's comment: A lot of people thought the Lego Movie was bad but I thought it was iconic in a way that "everything is awesome"!
