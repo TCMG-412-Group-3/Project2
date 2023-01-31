@@ -13,3 +13,6 @@ draft: true
 ![Shrek](https://www.themoviedb.org/t/p/w1280/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg)
 - [ ] [The Prince of Egypt](https://www.imdb.com/title/tt0068646/) (1998)
 ![The Prince of Egypt](https://www.themoviedb.org/t/p/w1280/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg)
+
+
+Thierry's comment: You can't go wrong with the movie that started the MCU!
